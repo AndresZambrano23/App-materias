@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Materias</string>
+    <string name="Materias">Materias</string>
+    <string name="Correo">Correo</string>
+    <string name="password">password</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Atras">Atras</string>
+    <string-array name="sexo">
+        <item>Seleccione</item>
+        <item>MASCULINO</item>
+        <item>FEMENINO</item>
+    </string-array>
+    <string name="pass">pass</string>
+    <string name="id_usuario">id_usuario</string>
+    <string name="Agregar_Materia">Agregar_Materia</string>
+    <string name="id_materia">id_materia</string>
+    <string name="nombre_materia">nombre_materia</string>
+</resources>
